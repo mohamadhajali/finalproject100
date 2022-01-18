@@ -13,6 +13,9 @@
         android:theme="@style/Theme.AndroidProject"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".coustomerHome"
+            android:exported="true" />
+        <activity
             android:name=".CheckIn"
             android:exported="true" />
         <activity
